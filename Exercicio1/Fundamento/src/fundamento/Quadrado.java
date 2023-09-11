@@ -13,7 +13,7 @@ import fundamento.Classes.QuadradoClasse;
 public class Quadrado {
     public static void main(String[] args) {
         
-   //Crie o Quadrado.java com a lógica necessária para calcular a área do quadrado. 
+   //1.3) Crie o Quadrado.java com a lógica necessária para calcular a área do quadrado. 
    //Imprima no final uma mensagem com as informações pertinentes.
    
         QuadradoClasse quadradoClasse = new QuadradoClasse(7);
